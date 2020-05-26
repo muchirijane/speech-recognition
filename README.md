@@ -5,4 +5,4 @@ In order to get the results or output you have to include recognition.interimRes
 <br>
 When you have finished you can continue by adding another addEventListener('end') to recognition to call it again and the speech fuction can run.
 
-<img src "img/image-1.png" width="900">
+<img src= "img/image-1.png" width="900">

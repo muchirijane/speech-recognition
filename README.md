@@ -1,4 +1,4 @@
-#speechrecognition #javascript
+# speech-recognition #javascript
 This is an amazing mini project about speech recognition with pure javascript. 
 <br>
 In order to get the results or output you have to include recognition.interimResults = true;
